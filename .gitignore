@@ -1,4 +1,5 @@
 data
 output
 foo.*
-
+control.*
+.ipynb_checkpoints/
